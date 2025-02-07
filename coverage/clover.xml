@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1738676761194" clover="3.2.0">
-  <project timestamp="1738676761194" name="All files">
-    <metrics statements="137" coveredstatements="133" conditionals="19" coveredconditionals="19" methods="12" coveredmethods="11" elements="168" coveredelements="163" complexity="0" loc="137" ncloc="137" packages="6" files="7" classes="7"/>
+<coverage generated="1738678298715" clover="3.2.0">
+  <project timestamp="1738678298716" name="All files">
+    <metrics statements="137" coveredstatements="137" conditionals="20" coveredconditionals="20" methods="12" coveredmethods="12" elements="169" coveredelements="169" complexity="0" loc="137" ncloc="137" packages="6" files="7" classes="7"/>
     <package name="src">
       <metrics statements="25" coveredstatements="25" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
       <file name="App.tsx" path="C:\Users\Christian Souza\project-01\src\App.tsx">
@@ -164,18 +164,18 @@
       </file>
     </package>
     <package name="src.services">
-      <metrics statements="9" coveredstatements="5" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="1"/>
+      <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
       <file name="pokemonService.ts" path="C:\Users\Christian Souza\project-01\src\services\pokemonService.ts">
-        <metrics statements="9" coveredstatements="5" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="1"/>
+        <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
         <line num="5" count="1" type="stmt"/>
-        <line num="8" count="1" type="cond" truecount="1" falsecount="0"/>
-        <line num="11" count="1" type="stmt"/>
-        <line num="15" count="1" type="stmt"/>
-        <line num="17" count="1" type="stmt"/>
-        <line num="19" count="0" type="stmt"/>
-        <line num="22" count="0" type="stmt"/>
-        <line num="26" count="0" type="stmt"/>
-        <line num="28" count="0" type="stmt"/>
+        <line num="8" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="19" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
       </file>
     </package>
   </project>

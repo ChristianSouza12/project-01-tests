@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import { PokemonType } from "../../types/pokemonType";
+import { PokemonType } from "../../types/PokemonType";
 import styles from "./styles.module.scss"
 interface IProps{
     fetchPokemonDetail:(id:number) => Promise<PokemonType>

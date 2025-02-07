@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 import styles from "./styles.module.scss"
-import { PokemonType } from "../../types/pokemonType"
+import { PokemonType } from "../../types/PokemonType"
 import { useNavigate } from "react-router-dom"
 
 

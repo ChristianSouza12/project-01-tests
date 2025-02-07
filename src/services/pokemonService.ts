@@ -1,4 +1,4 @@
-import { PokemonType } from "../types/pokemonType";
+import { PokemonType } from "../types/PokemonType";
 
 
 

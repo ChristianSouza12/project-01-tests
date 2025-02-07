@@ -20,9 +20,9 @@ export default function SignUp(){
             
             <form onSubmit={handleSubmit}>
             <h2>Cadastre-se</h2>
-            <input type="text" placeholder="Insira seu nome"/>
-            <input type="text" placeholder="Insira seu email"/>
-            <input type="text" placeholder="Insira sua senha"/>
+            <input type="text" name="name" placeholder="Insira seu nome"/>
+            <input type="text" name="email" placeholder="Insira seu email"/>
+            <input type="text" name="password" placeholder="Insira sua senha"/>
 
             <button>Sign Up</button>
             <Link to ="/">Já tem cadastro?Clique aqui</Link>
